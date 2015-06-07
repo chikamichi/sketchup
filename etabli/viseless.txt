@@ -1,0 +1,12 @@
+* réduire la largeur des plateaux avant et milieu à 25 cm
+* longueur plateaux : 175 - 2cm (pour feuillures) ?
+
+* représenter les ferrures de soutien en L, sous les plateaux avant et arrière
+* rainures sur les deux cotés pour le double-plateau, fixation seulement sur l'avant
+  (faux tenon, un coté collé dans les plateaux, l'autre mobile)
+* rainures sur les quatres cotés pour le plateau CP + plateau CP
+* sur deux cotés, planche sacrificielle ? (réduire la hauteur du plateau arrière etc.)
+* représenter le serrage vertical sur la face avant ; mobile (en angle) ?
+* représenter le réseau de trous
+
+* piètement en poteaux sapin ?
